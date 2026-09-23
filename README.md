@@ -1,9 +1,9 @@
 # CortexHire 🧠💼
-
+#It is still in the initial stage
 **CortexHire** is an automated career assistant designed to streamline the job search process for Data Engineers by pairing market intelligence with resume optimization. It automates the tedious parts of the job hunt so you can focus on interviewing.
 
 ## 🚀Planned activities
-
+* **retrieving jobs from one approved API, preserving the raw response and checking basic data quality.
 * **Latest Job Aggregator:** Automatically pulls the freshest job openings specifically for Data Engineers.
 * **Skill Gap & ATS Analysis:** Compares your CV against job descriptions to score compatibility and highlight missing skills.
 * **Market Trend Insights:** Analyzes active listings to extract a "gist" of the most highly demanded skills in the industry.
@@ -12,7 +12,6 @@
 ## 🛠️ Built With
 
 * **Language:** Python
-* **Libraries/APIs:** [e.g., BeautifulSoup, Scrapy, OpenAI API, Pandas - list what you use]
 
 ## 📦 Installation & Setup
 
